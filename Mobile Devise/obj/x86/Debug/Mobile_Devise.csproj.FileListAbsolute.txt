@@ -1,0 +1,21 @@
+E:\Mobile Devise\Mobile Devise\bin\Debug\Mobile_Devise.exe.config
+E:\Mobile Devise\Mobile Devise\bin\Debug\Mobile_Devise.exe
+E:\Mobile Devise\Mobile Devise\bin\Debug\Mobile_Devise.pdb
+E:\Mobile Devise\Mobile Devise\bin\Debug\Guna.UI2.dll
+E:\Mobile Devise\Mobile Devise\bin\Debug\Telerik.WinControls.dll
+E:\Mobile Devise\Mobile Devise\bin\Debug\Telerik.WinControls.UI.dll
+E:\Mobile Devise\Mobile Devise\bin\Debug\TelerikCommon.dll
+E:\Mobile Devise\Mobile Devise\bin\Debug\Telerik.WinControls.xml
+E:\Mobile Devise\Mobile Devise\bin\Debug\Telerik.WinControls.UI.xml
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.csprojAssemblyReference.cache
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.RadForm1.resources
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.Properties.Resources.resources
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.csproj.GenerateResource.cache
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.csproj.CoreCompileInputs.cache
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.csproj.CopyComplete
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.exe
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.pdb
+E:\Mobile Devise\Mobile Devise\obj\x86\Debug\Mobile_Devise.exe.licenses
+E:\Mobile Devise\Mobile Devise\bin\Debug\Recording.wav
+E:\Mobile Devise\Mobile Devise\bin\Debug\Recording (3) (1).wav
+E:\Mobile Devise\Mobile Devise\bin\Debug\Recording (3) (2).wav
